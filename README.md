@@ -1,2 +1,1 @@
-### Hi there 👋
-![trophy](https://github-profile-trophy.vercel.app/?username=MeyCorentin&no-frame=true&no-bg=true&theme=gruvbox)*
+![](https://github-readme-stats.vercel.app/api?username=MeyCorentin&show_icons=true&theme=transparent)
