@@ -1,1 +1,1 @@
-![.](https://api.githubtrends.io/user/svg/MeyCorentin/repos?time_range=one_year&theme=dark)
+![](https://raw.githubusercontent.com/MeyCorentin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
