@@ -1,6 +1,6 @@
 ## School Project
 
-| Grade |  Project | Résume | Language(s) |
+| Grade |  Project | Résume | Language |
 | --- | --- | --- | --- |
 | **?** | [Gomoku](https://github.com/MeyCorentin/Gomoku) | Gomoku Narabe game bot focusing on the performance of its artificial intelligence. | C++ |
 | **A** | [RType](https://github.com/MeyCorentin/Rtype) | Implement a multithreaded server and a graphical client for a well-known legacy video game called R-Type, using a game engine of my own design | C++ |
