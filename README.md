@@ -1,9 +1,3 @@
-## GameJam
-
-| Duration | Repository | Theme | Status | Link |
-| --- | --- | --- | --- | --- |
-| 1 Month |  https://github.com/MeyCorentin/GameOffDev | "Secrets" | Running | https://itch.io/jam/game-off-2024 |
-
 ## School Project
 
 | Grade |  Project | Résume | Language |
